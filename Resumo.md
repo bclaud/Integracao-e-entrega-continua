@@ -1,7 +1,7 @@
 - CI/CD
     - O que é CI/CD
 
-        Pratica combinada de entrega e integração continua
+        Pratica combinada de entrega e integração continua. Essencial para produtividade em equipes com muitos desenvolvedores
 
         ![Untitled](imgs/cicd.png)
 
